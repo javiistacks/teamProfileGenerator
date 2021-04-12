@@ -56,7 +56,7 @@ Type the following npm install commands one at a time: npm i, npm install jest, 
 
 ## Repository
 ### Github Repository
-Repository at [myReadme](https://github.com/javiistacks/teamProfileGenerator)
+Repository at [teamProfileGenerator](https://github.com/javiistacks/teamProfileGenerator)
 
 ## License
 

@@ -16,7 +16,7 @@
 
 
  ## Introduction
-A simple command line js application that will generate a README.md file based on USER input.
+The Team Profile Generator is a command-line-input application run in Node that requests information from the user about members of an engineering team and generates an HTML file displaying that information.
 
 ## Demo
 ![Screencast Demo](./Develop/img/screenRecord.gif)
@@ -25,8 +25,8 @@ A simple command line js application that will generate a README.md file based o
 ![Screencast Demo](./Develop/img/screenRecord.gif)
 
 ## Sample 
- These are the samples of the README.MD generator.
-* Sample [README.md](./production/.md)
+ This is a sample of the team profile generator.
+* Sample [README.md](./production/team.html)
 <img src="./Assets/screenshot.jpg" width="550" height="400">
 
 

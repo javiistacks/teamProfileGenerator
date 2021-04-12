@@ -9,6 +9,7 @@
 * [Intro](#intro)
 * [Demo](#demo)
 * [Sample](#sample)
+* [Development](#development)
 * [Installations](#installations)
 * [Created by](#created-by)
 * [Repository](#repository)
@@ -28,6 +29,13 @@ The Team Profile Generator is a command-line-input application run in Node that 
 ## Sample 
  This is a sample of the team profile generator.
 <img src="./Assets/screenshot.jpg" width="550" height="400">
+
+
+## Development
+
+### Bootstrap
+* [Bootstrap](https://getbootstrap.com/)
+  * Bootstrap was used for layout and mobile responsivess
 
 
 ## Installations

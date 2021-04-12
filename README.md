@@ -9,6 +9,7 @@
 * [Intro](#intro)
 * [Demo](#demo)
 * [Sample](#sample)
+* [Development](#development)
 * [Installations](#installations)
 * [Created by](#created-by)
 * [Repository](#repository)
@@ -19,15 +20,22 @@
 The Team Profile Generator is a command-line-input application run in Node that requests information from the user about members of an engineering team and generates an HTML file displaying that information.
 
 ## Demo
-![Screencast Demo](./Develop/img/screenRecord.gif)
+![Screencast Demo](./Assets/example.gif)
 
 ### Test
 ![Screencast Demo](./Assets/test.gif)
 
+
 ## Sample 
  This is a sample of the team profile generator.
-* Sample [README.md](./production/team.html)
 <img src="./Assets/screenshot.jpg" width="550" height="400">
+
+
+## Development
+
+### Bootstrap
+* [Bootstrap](https://getbootstrap.com/)
+  * Bootstrap was used for layout and mobile responsivess
 
 
 ## Installations
@@ -48,7 +56,7 @@ Type the following npm install commands one at a time: npm i, npm install jest, 
 
 ## Repository
 ### Github Repository
-Repository at [myReadme](https://github.com/javiistacks/teamProfileGenerator)
+Repository at [teamProfileGenerator](https://github.com/javiistacks/teamProfileGenerator)
 
 ## License
 

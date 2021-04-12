@@ -24,9 +24,9 @@ The Team Profile Generator is a command-line-input application run in Node that 
 ### Test
 ![Screencast Demo](./Assets/test.gif)
 
+
 ## Sample 
  This is a sample of the team profile generator.
-* Sample [README.md](./production/team.html)
 <img src="./Assets/screenshot.jpg" width="550" height="400">
 
 

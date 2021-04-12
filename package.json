@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/javiistacks/teamProfileGenerator#readme",
   "dependencies": {
+    "inquirer": "^8.0.0",
     "jest": "^26.6.3"
   }
 }

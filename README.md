@@ -19,7 +19,7 @@
 The Team Profile Generator is a command-line-input application run in Node that requests information from the user about members of an engineering team and generates an HTML file displaying that information.
 
 ## Demo
-![Screencast Demo](./Develop/img/screenRecord.gif)
+![Screencast Demo](./Assets/example.gif)
 
 ### Test
 ![Screencast Demo](./Assets/test.gif)

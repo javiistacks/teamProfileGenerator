@@ -22,7 +22,13 @@ The Team Profile Generator is a command-line-input application run in Node that 
 ## Demo
 ![Screencast Demo](./Assets/example.gif)
 
-### Test
+## Tests
+To run tests on the application, install
+```
+npm install jest
+```
+
+and run `npm test` from the command line while in the teamProfileGenerator folder.
 ![Screencast Demo](./Assets/test.gif)
 
 

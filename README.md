@@ -22,7 +22,7 @@ The Team Profile Generator is a command-line-input application run in Node that 
 ![Screencast Demo](./Develop/img/screenRecord.gif)
 
 ### Test
-![Screencast Demo](./Develop/img/screenRecord.gif)
+![Screencast Demo](./Assets/test.gif)
 
 ## Sample 
  This is a sample of the team profile generator.

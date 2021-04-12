@@ -16,20 +16,22 @@
 
 
  ## Introduction
-A simple command line js application that will generate a README.md file based on USER input.
+The Team Profile Generator is a command-line-input application run in Node that requests information from the user about members of an engineering team and generates an HTML file displaying that information.
 
 ## Demo
 ![Screencast Demo](./Develop/img/screenRecord.gif)
 
+### Test
+![Screencast Demo](./Develop/img/screenRecord.gif)
 
 ## Sample 
- These are the samples of the README.MD generator.
-* Sample [README.md](./Develop/README.md)
-<img src="./Develop/img/screenshotReadMe.jpg" width="550" height="400">
+ This is a sample of the team profile generator.
+* Sample [README.md](./production/team.html)
+<img src="./Assets/screenshot.jpg" width="550" height="400">
 
 
 ## Installations
-Type the following npm install commands one at a time: npm install i, npm install axios, npm install inquirer in the command line while in the Develop folder. 
+Type the following npm install commands one at a time: npm i, npm install jest, npm install inquirer in the command line while in the teamProfileGenerator folder. 
 
 * [npm](https://docs.npmjs.com/cli/v7/commands/npm-install)
   * npm is the package manager for the Node JavaScript platform. 

@@ -1,0 +1,92 @@
+/************************/
+/*        Global        */
+/************************/
+
+*, ::after, ::before {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: rgb(3, 152, 152);
+  }
+  
+  h1 {
+    font-size: 4.5rem;
+  }
+  
+  /************************/
+  /*        Classes       */
+  /************************/
+  
+  .card {
+    border-radius: .6rem;
+    margin: .4rem .4rem;
+    width: 22rem;
+  }
+  
+  .card:hover {
+    border-radius: .5rem; 
+    box-shadow: 0.3rem 0.3rem 0.3rem 0.3rem #2b213b;
+    transform: translateY(0.1rem);
+    transition: transform 150ms;
+  }
+  
+  .card[disabled]:hover {
+    cursor: not-allowed;
+    transform: none;
+  }
+  
+  .card-body{
+    background-color: 
+    border-color: transparent;
+    border-radius: 0 0 .5rem .5rem;
+    color: #333;
+  }
+  
+  .card-header {
+    background: linear-gradient(to left,  rgb(240, 113, 10), rgba(220, 67, 11, 0.824));
+    border-radius: 1rem; 
+    color: azure;
+    text-align: center;
+  }
+  
+  .card-header:first-child {
+    border-radius: .5rem .5rem 0 0;  
+  }
+  
+  .card-title {
+    text-shadow: 1px 1px #efedf4;;
+  }
+  
+  .container {
+    display: inline;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .jumbotron {
+    background-color: #0025a9;
+    border-radius: 0; 
+    color: azure;
+    padding: 2rem;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .list-group {
+    background: linear-gradient(to left,  rgb(240, 113, 10), rgba(220, 67, 11, 0.824));
+    border-radius: .25rem;
+    border: 2px solid #333;
+    font-weight: 600;
+  }
+  
+  .list-group-item {
+    background-color: azure;
+    margin-bottom: .2rem;
+    border-bottom: 0;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }

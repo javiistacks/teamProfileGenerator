@@ -20,6 +20,11 @@
 The Team Profile Generator is a command-line-input application run in Node that requests information from the user about members of an engineering team and generates an HTML file displaying that information.
 
 ## Demo
+To run the application, type
+```
+node index.js
+```
+from the command line while in the teamProfileGenerator folder.
 ![Screencast Demo](./Assets/example.gif)
 
 ## Tests
@@ -27,7 +32,6 @@ To run tests on the application, install
 ```
 npm install jest
 ```
-
 and run `npm test` from the command line while in the teamProfileGenerator folder.
 ![Screencast Demo](./Assets/test.gif)
 

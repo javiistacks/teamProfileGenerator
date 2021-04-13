@@ -38,6 +38,7 @@ and run `npm test` from the command line while in the teamProfileGenerator folde
 
 ## Sample 
  This is a sample of the team profile generator.
+ 
 <img src="./Assets/screenshot.jpg" width="550" height="400">
 
 

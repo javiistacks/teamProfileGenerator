@@ -8,6 +8,7 @@
 ## Table of Contents
 * [Intro](#intro)
 * [Demo](#demo)
+* [Tests](#tests)
 * [Sample](#sample)
 * [Development](#development)
 * [Installations](#installations)
